@@ -17,4 +17,4 @@ indicadores estratégicos de e-commerce.
 - Modelagem dimensional (Star Schema)
 
 ### Dashboard
-![Dashboard](dashboard.png.png)
+![Dashboard](imagem.png.png)
